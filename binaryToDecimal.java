@@ -1,5 +1,5 @@
 /*
-# convert a decimal input to binary
+# convert a binary input to decimal
 
 steps:
 -> calls toDecimal function with the binary input
